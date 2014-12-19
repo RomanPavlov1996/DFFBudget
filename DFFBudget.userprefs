@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="AppStore|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DFFBudget/DataLayer.cs">
+    <Files>
+      <File FileName="DFFBudget/DataLayer.cs" Line="8" Column="24" />
+      <File FileName="DFFBudget/OutcomesController.cs" Line="1" Column="1" />
+      <File FileName="DFFBudget/IncomesController.cs" Line="1" Column="1" />
+      <File FileName="DFFBudget/OperationPage.cs" Line="1" Column="1" />
+      <File FileName="DFFBudget/NewIncomePage.cs" Line="1" Column="1" />
+      <File FileName="DFFBudget/Auth.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DFF Budget Manager" expanded="True">
+            <Node name="DataLayer.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DFF_220Budget_220Manager>
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="L55UAP62PV" TeamId="75Z9J26CJA" />
+  </MonoDevelop.Ide.ItemProperties.DFF_220Budget_220Manager>
+</Properties>
